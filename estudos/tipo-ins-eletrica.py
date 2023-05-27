@@ -1,7 +1,6 @@
 #===========================================#####=============================================================#
 #Universidade de Mogi das Cruzes
-#Programador: Douglas Pardim Ferreira / Alan Carlos da Silva / Cesar Alves Caetano de Oliveira 
-#RGM:11231100708 / 11231101757 / 11231101808
+#Programador: Douglas Pardim Ferreira
 #Turma: 1b ADS Noturno
 #Data: 14/04/2023
 #Programa: Preço e tipo de instalação da energia elétrica
